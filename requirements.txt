@@ -1,0 +1,16 @@
+# Core dependencies for anomaly detection
+pandas
+scikit-learn
+joblib
+numpy
+
+# API and environment management
+requests
+python-dotenv
+
+# Visualization features
+matplotlib
+seaborn
+
+# Enhanced data processing
+openpyxl
